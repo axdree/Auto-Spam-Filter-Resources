@@ -1,1 +1,1 @@
-{"7\.ly", "bit\.ly", "fun\.ly", "tinyurl\.com", "adf\.ly", "3\.ly", "tiny\.tw", "is\.gd", "2tu\.us", "bit\.do", "x\.co", "tiny\.cc", "clck\.ru", "0rz\.tw", "ity\.im", "chilp\.it", "u\.to", "alturl\.com", "tr\.im", "cutt\.us"}
+{"7\.ly", "bit\.ly", "fun\.ly", "tinyurl\.com", "adf\.ly", "3\.ly", "tiny\.tw", "is\.gd", "2tu\.us", "bit\.do", "x\.co", "tiny\.cc", "clck\.ru", "0rz\.tw", "ity\.im", "chilp\.it", "u\.to", "alturl\.com", "tr\.im", "cutt\.us", "vk\.cc"}
